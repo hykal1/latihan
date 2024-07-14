@@ -31,6 +31,7 @@ import java.util.Locale;
 public class AddActivity extends AppCompatActivity {
 
     DBHelper helper;
+
     EditText TxNomor, TxNama, TxTempatLahir, TxTanggal, TxAlamat;
     Spinner SpJK;
     long id;
